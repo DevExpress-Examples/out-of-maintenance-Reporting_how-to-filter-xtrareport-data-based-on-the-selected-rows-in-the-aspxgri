@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [XtraReport1.cs](./CS/App_Code/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/App_Code/XtraReport1.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to filter XtraReport data based on the selected rows in the ASPxGridView
 
 
