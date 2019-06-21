@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to filter XtraReport data based on the selected rows in the ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1613/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to filter XtraReport data based on the selected rows in the ASPxGridView. The XtraReport is placed into a separate ASPxPopupControl window. End users have the capability to resize this window and move it within a containment web page. This window is hidden automatically when there are no selected rows in the ASPxGridView.</p><p>Some key points of this example are:</p><p>1) The client ASPxClientGridView.SelectionChanged event is handled to track the rows selection.<br />
