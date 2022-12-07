@@ -1,5 +1,5 @@
 ﻿Imports System
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports nwndDataSetTableAdapters
 
 Partial Public Class _Default
